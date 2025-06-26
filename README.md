@@ -1,12 +1,12 @@
-# Project Template v25.6.25
+# Project Template Rust v25.6.27
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
-Base template for starting software projects quickly and efficiently.
+A base template to quickly and efficiently start Rust projects.
 
-Setting up a project from scratch can be a complex, repetitive, and error-prone task. This initial process consumes valuable time that could be dedicated to developing key features. To address this challenge, we propose a base template that simplifies and streamlines the initial project setup, promoting best practices from the start.
+Setting up a [Rust](https://www.rust-lang.org/) project from scratch can be complex, repetitive, and error-prone. This initial process consumes valuable time that could be better spent developing key features. To address this challenge, we propose a base template that simplifies and streamlines the initial project setup, promoting best practices from the start.
 
-This template is designed to be used with **[Visual Studio Code](https://code.visualstudio.com/)** and integrates seamlessly with **[GitHub](https://github.com/)**, making it easy to create repositories and manage source code. By adopting this predefined structure, development teams can focus on what really matters: building innovative and high-quality solutions.
+This template is designed to be used with **[Visual Studio Code](https://code.visualstudio.com/)** and integrates seamlessly with **[GitHub](https://github.com/)**, making it easy to create repositories and manage source code. By adopting this predefined structure, development teams can focus on what truly matters: building innovative and high-quality solutions.
 
 ## Documentation
 

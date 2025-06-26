@@ -29,8 +29,9 @@ Older versions do not receive maintenance or security updates. It is recommended
 To keep your project secure, we recommend:
 
 - **Update dependencies**: Keep all project dependencies updated to the latest stable versions.
-- **Code review**: Perform regular reviews of the code and configuration files to identify potential vulnerabilities.
-- **Continuous monitoring**: Use monitoring and security analysis tools to detect and respond to threats in real time.
+- **Code review**: Perform regular reviews of code and configuration files to identify potential vulnerabilities.
+- **Security testing**: Implement automated security tests to detect common vulnerabilities.
+- **Continuous monitoring**: Use security monitoring and analysis tools to detect and respond to threats in real time.
 
 ### Acknowledgements
 

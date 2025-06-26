@@ -2,4 +2,7 @@
 
 .DS_Store
 .env
+*.bk
+Cargo.lock
+target
 temp

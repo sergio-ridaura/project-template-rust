@@ -1,46 +1,37 @@
-# 📋 Kanban Board v25.6.25
+# 📋 Kanban Board v25.6.27
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
-## Project Template
+## Project Template Rust
 
-Base template to start Rust projects quickly and efficiently.
+Base template to quickly and efficiently start Rust projects.
 
-A structured foundation for projects that incorporates best practices and recognized methodologies, ensuring efficient and organized development.
+A structured foundation for [Rust](https://www.rust-lang.org/) projects that incorporates good practices and recognized methodologies, ensuring efficient and organized development.
 
 ### Backlog
 
-_There are currently no tasks in this section._
+_Currently there are no tasks in this section._
 
 ### To Do
 
-_There are currently no tasks in this section._
+- **Rust Dockerfile**: Create a `Dockerfile` for the Rust project, ensuring that the development environment is consistent and easy to set up. This `Dockerfile` should include necessary dependencies and project-specific configurations.
+
+- **Hello World! Rust**: Create a Rust project that prints "Hello, world!" to the console. This basic exercise will serve as a starting point to verify that the development environment is properly configured and working.
+
+- **GitHub Actions CI/CD**: Configure GitHub Actions to implement a CI/CD workflow that runs tests and automatically deploys the Rust project. This will ensure that code is tested and deployed efficiently and reliably.
+
+- **Publish Project to Crates.io**: Publish the project to [Crates.io](https://crates.io/) to make it available to the Rust community. This will allow other developers to use and contribute to the project, fostering collaboration and community growth.
 
 ### In Progress
 
-_There are currently no tasks in this section._
+_Currently there are no tasks in this section._
 
 ### Blocked
 
-_There are currently no tasks in this section._
+_Currently there are no tasks in this section._
 
 ### Completed
 
-- **Documentation Update**: Improve and update various documentation files to enhance understanding and usage of the project.
-- **`SECURITY.md` File**: Create a `SECURITY.md` file with guidelines for reporting security vulnerabilities.
-- **`DEPLOY.md` File**: Create a `DEPLOY.md` file with a guide for deploying the project to production.
-- **`WORKFLOW.md` File**: Create a `WORKFLOW.md` file describing the project's workflow.
-- **`DEVELOP.md` File**: Create a `DEVELOP.md` file with a guide for local development.
-- **`INSTALL.md` File**: Create an `INSTALL.md` file with detailed installation instructions for the project.
-- **`cspell.json` File**: Create a `cspell.json` file with specific configurations for the `cspell` spell checker.
-- **`CONTRIBUTING.md` File**: Create a `CONTRIBUTING.md` file with the contribution guide.
-- **`CODE_OF_CONDUCT.md` File**: Create a `CODE_OF_CONDUCT.md` file based on the Contributor Covenant.
-- **`README.md` File**: Create a `README.md` file that provides an overview of the project and links to other documents.
-- **`LICENSE.md` File**: Create license files for the project.
-- **Visual Studio Code Files**: Create configuration files for Visual Studio Code to facilitate development and collaboration.
-- **GitHub Files**: Create GitHub files to manage collaboration and contributions.
-- **`.gitignore` File**: Create a `.gitignore` file to indicate to Git which files or directories should be ignored.
-- **Drafting `KANBAN.md`**: Create a `KANBAN.md` file to serve as the base for the project's Kanban board.
-- **Drafting `ACTION_PLAN.md`**: Develop a detailed action plan to guide the implementation of the project, ensuring the achievement of established objectives.
-- **Drafting `PROPOSAL.md`**: Prepare a well-structured project proposal that covers all key aspects to ensure its viability and execution.
-- **GitHub Repository Setup**: Set up a repository on GitHub to manage version control.
+- **GitHub Repository Setup**: Set up a GitHub repository to manage version control, based on the [Project Template](https://github.com/sergio-ridaura/project-template) base template.
+
+- **Base Template Adaptation**: Starting from the [Project Template](https://github.com/sergio-ridaura/project-template) base template, the purpose is to accelerate and optimize the startup of new software projects.

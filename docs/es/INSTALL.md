@@ -13,13 +13,13 @@ Puedes empezar de dos maneras:
 Clona este repositorio directamente en tu máquina local ejecutando los siguientes comandos:
 
 ```sh
-git clone https://github.com/sergio-ridaura/project-template.git
-cd project-template
+git clone https://github.com/sergio-ridaura/project-template-rust.git
+cd project-template-rust
 ```
 
 #### Usar como Plantilla
 
-Si prefieres crear un nuevo repositorio basado en esta plantilla, haz clic en el botón **"Use this template"** en la página del repositorio en [GitHub](https://github.com/sergio-ridaura/project-template). Esto generará un nuevo repositorio en tu cuenta, listo para personalizar.
+Si prefieres crear un nuevo repositorio basado en esta plantilla, haz clic en el botón **"Use this template"** en la página del repositorio en [GitHub](https://github.com/sergio-ridaura/project-template-rust). Esto generará un nuevo repositorio en tu cuenta, listo para personalizar.
 
 ### Instalación Completada con Éxito
 

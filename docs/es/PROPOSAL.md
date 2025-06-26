@@ -1,14 +1,14 @@
-# 🌟 Propuesta v25.6.25
+# 🌟 Propuesta v25.6.27
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
 ## Project Template
 
-Plantilla base para iniciar proyectos de software de forma rápida y eficiente.
+Plantilla base para iniciar proyectos de Rust de forma rápida y eficiente.
 
 ### Introducción
 
-Configurar un proyecto desde cero puede ser una tarea compleja, repetitiva y propensa a errores. Este proceso inicial consume tiempo valioso que podría dedicarse al desarrollo de funcionalidades clave. Para abordar este desafío, proponemos una plantilla base que simplifica y optimiza la configuración inicial de proyectos, promoviendo buenas prácticas desde el principio.
+Configurar un proyecto de [Rust](https://www.rust-lang.org/) desde cero puede ser una tarea compleja, repetitiva y propensa a errores. Este proceso inicial consume tiempo valioso que podría dedicarse al desarrollo de funcionalidades clave. Para abordar este desafío, proponemos una plantilla base que simplifica y optimiza la configuración inicial de proyectos, promoviendo buenas prácticas desde el principio.
 
 Esta plantilla está diseñada para ser utilizada con **[Visual Studio Code](https://code.visualstudio.com/)** y se integra perfectamente con **[GitHub](https://github.com/)/**, facilitando la creación de repositorios y la gestión del código fuente. Al adoptar esta estructura predefinida, los equipos de desarrollo pueden enfocarse en lo que realmente importa: construir soluciones innovadoras y de alta calidad.
 
@@ -30,9 +30,12 @@ Esta plantilla está diseñada para ser utilizada con **[Visual Studio Code](htt
 
 1. **Integración con GitHub**: Gestión de código optimizada y soporte para flujos de trabajo colaborativos.
 2. **Integración con Visual Studio Code**: Configuración lista para usar, incluyendo extensiones recomendadas y configuraciones personalizadas.
-3. **Documentación Completa**: Incluye guías detalladas para instalación, desarrollo, despliegue, contribuciones y más.
-4. **Metodologías Reconocidas**: Uso de prácticas como GitHub Flow y Kanban para un desarrollo estructurado.
+3. **Entorno Dockerizado**: Proporciona un contenedor Docker preconfigurado que garantiza un entorno de desarrollo consistente para Rust.
+4. **Estructura de Proyecto Rust Predefinida**: Organización clara de carpetas y archivos, facilitando la navegación y el mantenimiento del código.
+5. **Configuración de CI/CD**: Integración con herramientas de integración continua y despliegue continuo para automatizar pruebas y despliegues.
+6. **Documentación Completa**: Incluye guías detalladas para instalación, desarrollo, despliegue, contribuciones y más.
+7. **Metodologías Reconocidas**: Uso de prácticas como GitHub Flow y Kanban para un desarrollo estructurado.
 
 ### Conclusión
 
-Esta plantilla base representa una solución integral para iniciar proyectos de manera eficiente, estructurada y profesional. Al adoptar esta propuesta, los equipos de desarrollo podrán enfocarse en lo que realmente importa: construir soluciones innovadoras y de alta calidad.
+Esta plantilla base representa una solución integral para iniciar proyectos de Rust de manera eficiente, estructurada y profesional. Al adoptar esta propuesta, los equipos de desarrollo podrán enfocarse en lo que realmente importa: construir soluciones innovadoras y de alta calidad.
