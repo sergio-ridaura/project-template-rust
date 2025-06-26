@@ -1,0 +1,24 @@
+{
+  "version": "0.2",
+  "language": "en-GB, en-US, en, es-ES, es, lorem",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "adáptalo",
+    "bloqueantes",
+    "configurarlo",
+    "descompilado",
+    "escalabilidad",
+    "etnicidad",
+    "mantenibilidad",
+    "monitoreo",
+    "repórtalo",
+    "ridaura",
+    "sublicencia",
+    "sublicenciar",
+    "subtareas"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
