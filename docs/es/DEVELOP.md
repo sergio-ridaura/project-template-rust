@@ -2,7 +2,7 @@
 
 _Copyright (c) 2025. [Sergio Ridaura](https://github.com/sergio-ridaura)._
 
-El desarrollo de proyectos utilizando esta plantilla base está diseñado para ser eficiente, estructurado y profesional. La plantilla incorpora buenas prácticas y metodologías reconocidas como **[GitHub Flow](https://docs.github.com/get-started/using-github/github-flow)** y **[Kanban](https://asana.com/resources/what-is-kanban)**, garantizando un flujo de trabajo colaborativo y organizado.
+El desarrollo de proyectos de [Rust](https://www.rust-lang.org/) utilizando esta plantilla base está diseñado para ser eficiente, estructurado y profesional. La plantilla incorpora buenas prácticas y metodologías reconocidas como **[GitHub Flow](https://docs.github.com/get-started/using-github/github-flow)** y **[Kanban](https://asana.com/resources/what-is-kanban)**, garantizando un flujo de trabajo colaborativo y organizado.
 
 ### Configuración inicial
 
@@ -118,8 +118,12 @@ Este flujo de trabajo es una guía general que puedes personalizar según las ne
 
 Procura mantener actualizado el flujo de trabajo a medida que el proyecto avanza, incorporando lecciones aprendidas y adaptaciones necesarias. Esto no solo mejora la eficiencia del equipo, sino que también fomenta una cultura de mejora continua y colaboración.
 
+### Desarrollo de Rust
+
+Para el desarrollo de proyectos en Rust, asegúrate de seguir las mejores prácticas y convenciones establecidas por la comunidad. Tienes mas información en el documento [RUST.md](RUST.md), que proporciona una guía completa sobre cómo estructurar y desarrollar proyectos en Rust de manera efectiva.
+
 ### Conclusión
 
-Este flujo de trabajo sirve como una guía integral para el desarrollo de proyectos con esta plantilla base, facilitando la organización y eficiencia en cada etapa, desde la definición de objetivos hasta la implementación y el mantenimiento. 
+Este flujo de trabajo sirve como una guía integral para el desarrollo de proyectos con esta plantilla base, facilitando la organización y eficiencia en cada etapa, desde la definición de objetivos hasta la implementación y el mantenimiento.
 
 Recuerda que este documento es solo un punto de partida: adáptalo según las características y necesidades de tu equipo y proyecto. Personaliza las secciones y detalles para asegurar que el proceso de desarrollo refleje la dinámica y los objetivos específicos de tu entorno, promoviendo así una colaboración efectiva y resultados de calidad.

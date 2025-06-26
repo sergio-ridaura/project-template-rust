@@ -30,6 +30,7 @@ Para mantener la seguridad de tu proyecto, recomendamos:
 
 - **Actualizar dependencias**: Mantén todas las dependencias del proyecto actualizadas a las últimas versiones estables.
 - **Revisión de código**: Realiza revisiones periódicas del código y de los archivos de configuración para identificar posibles vulnerabilidades.
+- **Pruebas de seguridad**: Implementa pruebas de seguridad automatizadas para detectar vulnerabilidades comunes.
 - **Monitoreo continuo**: Utiliza herramientas de monitoreo y análisis de seguridad para detectar y responder a amenazas en tiempo real.
 
 ### Agradecimientos

@@ -18,6 +18,9 @@ Before submitting the Pull Request, make sure you have completed the following:
 - [ ] I have followed the guidelines and best practices defined in the repository.
 - [ ] I have updated the documentation (README.md and other documents) if necessary.
 - [ ] I have verified that the changes work correctly in different environments.
+- [ ] I have added comments in the code where necessary to clarify complex logic or important decisions.
+- [ ] I have reviewed the code for potential security vulnerabilities.
+- [ ] I have run all tests and they have passed successfully.
 
 # Additional information
 
